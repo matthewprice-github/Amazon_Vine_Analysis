@@ -5,7 +5,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Results 
 
-[Summary Table of Results](https://github.com/matthewprice-github/Amazon_Vine_Analysis/tree/main/Amazon_Vine_Analysis)
+[Summary Table of Results](https://github.com/matthewprice-github/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Vine_Analysis_Summary.PNG)
 
 The volume of reviews were also skewed heavily towards the non-Vine group, with over 13.5K total reviews compared to only 59 total reviews for Vine. This volume differential continued proportionally to fivestar reviews, of which there were 7.7K five star reviews in the non-Vine products, and only 34 five star Vine reviews. This leads to a five star review percentage of 56.96% and 57.63% of Non-Vine and Vine reviews, respectively. 
 
